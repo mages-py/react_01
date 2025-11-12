@@ -1,0 +1,13 @@
+.portfolio {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.portfolio h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #333;
+  font-size: 24px;
+  font-weight: normal;
+}

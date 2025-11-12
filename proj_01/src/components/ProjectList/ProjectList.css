@@ -1,0 +1,32 @@
+.project-list {
+  column-count: 3;
+  column-gap: 10px;
+  width: 100%;
+}
+
+.project-card {
+  break-inside: avoid;
+  border: none;
+  border-radius: 0;
+  overflow: hidden;
+  box-shadow: none;
+  transition: none;
+  margin: 0 0 10px 0;
+  padding: 0;
+  display: inline-block;
+  width: 100%;
+}
+
+.project-card:hover {
+  transform: none;
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
